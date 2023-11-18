@@ -8,13 +8,13 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@types/cytoscape": "^3.19.9",
-    "nuxt": "3.4.3",
-    "sass": "^1.62.1"
+    "@types/cytoscape": "^3.19.15",
+    "nuxt": "3.8.1",
+    "sass": "^1.69.5"
   },
   "dependencies": {
-    "cytoscape": "^3.24.0",
+    "cytoscape": "^3.27.0",
     "mdi": "^2.2.43",
-    "vuetify": "^3.2.2"
+    "vuetify": "^3.4.2"
   }
 }
